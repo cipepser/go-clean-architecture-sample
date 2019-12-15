@@ -37,5 +37,9 @@ func (u *User) Login(output *user.LoginOutput, err error) {
 `Context`だとしたら`Error`がinterfaceに定義されていない。  
 driver層？
 
+## status
+
+`gateway`が何を差しているのかわからず断念
+
 ## References
 - [あえてGo言語でClean Architectureを学ぶ](https://www.aintek.xyz/posts/clean-architecture-lean-from-golang)

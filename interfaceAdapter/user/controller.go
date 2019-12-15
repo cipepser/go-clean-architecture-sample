@@ -1,4 +1,4 @@
-package interfaceAdapter
+package controllers
 
 import "github.com/cipepser/go-clean-architecture-sample/usecases"
 
